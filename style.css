@@ -41,3 +41,12 @@ a {
 .document {
     width: 60%;
 }
+
+.image {
+    width: 510px;
+    height: 400px;
+    background-image: url(img/volkswagen.jpg);
+    background-repeat: none;
+    background-size: cover;
+    background-position: center;
+}
